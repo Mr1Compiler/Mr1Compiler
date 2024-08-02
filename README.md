@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on windows forms projcts<br>🌱 I’m currently learning c# and .net framework
+🔭 I’m currently working on winforms projcts<br>🌱 I’m currently learning c# and .net framework
 
 
 ## 🌐 Socials:
