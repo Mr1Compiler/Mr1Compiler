@@ -1,4 +1,5 @@
 # 💫 About Me:
+C# Developer
 🔭 I’m currently working on winforms projcts<br>🌱 I’m currently learning c# and .net framework
 
 
