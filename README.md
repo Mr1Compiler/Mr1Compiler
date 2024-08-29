@@ -1,6 +1,12 @@
-# 💫 About Me:
-🔭 C# Developer <br>
-🔭 I’m currently working on winforms projcts<br>🌱 I’m currently learning c# and .net framework
+# 💫 About Me
+
+Hello! I'm a C# developer with a passion for exploring new technologies and improving my skills. Here’s a bit more about me:
+
+- 🔭 Currently working on WinForms projects
+- 🌱 Actively learning C# and the .NET Framework
+- 🌱 Expanding my expertise into low-level programming with C and C++
+
+Feel free to connect or check out my projects!
 
 
 ## 🌐 Socials:
