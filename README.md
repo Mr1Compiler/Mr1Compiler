@@ -4,7 +4,7 @@ Hello! I'm a C# developer with a passion for exploring new technologies and impr
 
 - 🔭 Currently working on WinForms projects
 - 🌱 Actively learning C# and the .NET Framework
-- 🌱 Expanding my expertise into low-level programming with C and C++
+- 🌱 Expanding my expertise into low-level programming with C and C++ 
 
 Feel free to connect or check out my projects!
 
