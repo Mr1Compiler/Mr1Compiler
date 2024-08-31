@@ -2,7 +2,7 @@
 
 Hello! I'm a Computer Engineer Student  with a passion for exploring new technologies and improving my skills. Here’s a bit more about me:
 
-- 🔭 C#|.NET Developer
+- 🔭 C# | .NET Developer
 - 🔭 Currently working on WinForms projects
 - 🌱 Actively learning C# and the .NET Framework
 - 🌱 Expanding my expertise into low-level programming with C and C++ 
