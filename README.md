@@ -4,8 +4,7 @@ Hello! I'm a Computer Engineer Student  with a passion for exploring new technol
 
 - 🔭 C# | .NET Developer
 - 🔭 Currently working on WinForms projects
-- 🌱 Actively learning C# and the .NET Framework
-- 🌱 Expanding my expertise into low-level programming with C and C++ 
+- 🌱 Actively learning C# and the .NET
 
 Feel free to connect or check out my projects!
 
