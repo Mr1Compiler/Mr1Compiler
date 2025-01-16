@@ -1,27 +1,52 @@
-# 💫 About Me
+# 👋 Hi, I'm Ayman Hazim!
 
-Hello! I'm a Computer Engineer Student with a passion for exploring new technologies and improving my skills. Here’s a bit more about me:
+### Backend Developer | C#, ASP.NET Core, APIs, SQL, Entity Framework
 
-- 🔭 C# | .NET Developer
-- 🔭 Currently working on ASP.NET Core projects
-- 🌱 Actively learning C# and the .NET
-
-Feel free to connect or check out my projects!
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr1compiler) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mr1compiler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-asal-a8219b327)
-
-# 💻 Tech Stack:
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mr1compiler&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mr1compiler&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET Web API, SQL**, and **Entity Framework**. I am passionate about backend development and have hands-on experience with **ASP.NET MVC**. As I approach the completion of my studies, I am eager to apply my skills to real-world projects, contribute to impactful development, and continue learning in the field of backend technologies and API development.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mr1compiler&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌍 About Me
+
+- 📍 Based in **Iraq**
+- ✉️ Reach me at **[mr1compiler@gmail.com](mailto:mr1compiler@gmail.com)**
+- 🧠 Currently learning **ASP.NET APIs, MVC**
+- 🤝 Open to collaborating on **ASP.NET APIs, MVC, databases, and Entity Framework projects**
+- ⚡ Microsoft and .NET enthusiast, always exploring new tech!
+
+---
+
+## 🛠️ Technologies I Use
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="80" height="80" />
+  <img src="https://img.icons8.com/color/80/api.png" alt="APIs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="80" height="80" />
+  <img src="https://img.icons8.com/color/80/entity-framework.png" alt="Entity Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
+</div>
+
+---
+
+## 📊 Fun Stats
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanhazim&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanhazim&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 🎥 **YouTube**: [Your Channel Name]([https://youtube.com/yourchannel](https://www.youtube.com/@Mr1Compiler))  
+- 💼 **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/ayman-hazim-a8219b327/))  
+- 📸 **Instagram**: [Your Instagram]([https://instagram.com/yourhandle](https://instagram.com/mr1compiler))  
+- 💬 **Telegram**: [Your Telegram]([https://t.me/yourhandle](https://t.me/mr1compiler))  
+- 📧 **Email**: [mr1compiler@gmail.com](mailto:mr1compiler@gmail.com)  
+
+---
+
+_✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House ✨_
