@@ -40,7 +40,7 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 
 ## 📫 Let's Connect
 
-- 🎥 **YouTube**: [Your Channel Name]([https://youtube.com/yourchannel](https://www.youtube.com/@Mr1Compiler))  
+- 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler))  
 - 💼 **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/ayman-hazim-a8219b327/))  
 - 📸 **Instagram**: [Your Instagram]([https://instagram.com/yourhandle](https://instagram.com/mr1compiler))  
 - 💬 **Telegram**: [Your Telegram]([https://t.me/yourhandle](https://t.me/mr1compiler))  
