@@ -41,9 +41,9 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 ## 📫 Let's Connect
 
 - 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler) 
-- 💼 **LinkedIn**: [Ayman Hazim]((https://www.linkedin.com/in/ayman-hazim-a8219b327/))  
-- 📸 **Instagram**: [Mr1Compiler]((https://instagram.com/mr1compiler))  
-- 💬 **Telegram**: [Mr1Compiler]((https://t.me/mr1compiler))  
+- 💼 **LinkedIn**: [Ayman Hazim](https://www.linkedin.com/in/ayman-hazim-a8219b327/)  
+- 📸 **Instagram**: [Mr1Compiler](https://instagram.com/mr1compiler)  
+- 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler) 
 - 📧 **Email**: [mr1compiler@gmail.com](mailto:mr1compiler@gmail.com)  
 
 ---
