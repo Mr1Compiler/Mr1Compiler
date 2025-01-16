@@ -23,7 +23,6 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="80" height="80" />
   <img src="https://img.icons8.com/color/80/api.png" alt="APIs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="80" height="80" />
-  <img src="https://img.icons8.com/color/80/entity-framework.png" alt="Entity Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
@@ -33,9 +32,9 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 
 ## 📊 Fun Stats
 
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanhazim&show_icons=true&theme=tokyonight)
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanhazim&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight)
 
 ---
 
