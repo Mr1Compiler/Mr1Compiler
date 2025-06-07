@@ -32,7 +32,11 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 </div>
 
 ---
+## 📊 Fun Stats
 
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 
 ## 📫 Let's Connect
