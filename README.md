@@ -18,41 +18,24 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 
 ## 🛠️ Technologies I Use
 
-### 💻 Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
-</div>
-
-### 🌐 Frameworks & Libraries
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="60" />
-  <img src="https://img.icons8.com/color/60/api.png" alt="APIs" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" />
-</div>
-
-### 🐳 Tools & Platforms
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
-</div>
-
-### 🖥️ OS & Editors
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="60" />
-</div>
+| **Category**         | **Technology** | **Icon** |
+|----------------------|----------------|----------|
+| Programming Language | C#             | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) |
+| Programming Language | C++            | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+| Programming Language | C              | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) |
+| Programming Language | JavaScript     | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
+| Framework            | ASP.NET Core   | ![ASP.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg) |
+| Tool/API             | Web APIs       | ![API](https://img.icons8.com/color/48/api.png) |
+| Database             | SQL Server     | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) |
+| Database             | PostgreSQL     | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
+| Tool                 | Docker         | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
+| OS                   | Windows        | ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) |
+| Markup               | HTML5          | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
+| Style                | CSS3           | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
+| OS                   | Linux          | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
+| OS                   | Ubuntu         | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) |
+| Editor               | Vim            | ![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg) |
+| Editor               | Neovim         | ![Neovim](https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg) |
 
 ---
 
