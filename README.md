@@ -18,24 +18,13 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 
 ## 🛠️ Technologies I Use
 
-| **Category**         | **Technology** | **Icon** |
-|----------------------|----------------|----------|
-| Programming Language | C#             | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) |
-| Programming Language | C++            | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
-| Programming Language | C              | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) |
-| Programming Language | JavaScript     | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
-| Framework            | ASP.NET Core   | ![ASP.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg) |
-| Tool/API             | Web APIs       | ![API](https://img.icons8.com/color/48/api.png) |
-| Database             | SQL Server     | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) |
-| Database             | PostgreSQL     | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
-| Tool                 | Docker         | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) |
-| OS                   | Windows        | ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) |
-| Markup               | HTML5          | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
-| Style                | CSS3           | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
-| OS                   | Linux          | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
-| OS                   | Ubuntu         | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) |
-| Editor               | Vim            | ![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg) |
-| Editor               | Neovim         | ![Neovim](https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg) |
+| **Category**            | **Technologies** |
+|-------------------------|------------------|
+| **Languages**           | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
+| **Frameworks & APIs**   | ![ASP.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg) ![API](https://img.icons8.com/color/48/api.png) |
+| **Databases**           | ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
+| **Tools & Platforms**   | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
+| **OS & Editors**        | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) ![Vim](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg) ![Neovim](https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg) |
 
 ---
 
