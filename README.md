@@ -9,7 +9,7 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 ## 🌍 About Me
 
 - 📍 Based in **Iraq**
-- ✉️ Reach me at **[mr1compiler@gmail.com](mailto:eng.ayman.asal@gmail.com)**
+- ✉️ Reach me at **[eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)**
 - 🧠 Currently learning **ASP.NET APIs, MVC**
 - 🤝 Open to collaborating on **ASP.NET APIs, MVC, databases, and Entity Framework projects**
 - ⚡ Microsoft and .NET enthusiast, always exploring new tech!
@@ -18,26 +18,49 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 
 ## 🛠️ Technologies I Use
 
+### 💻 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="80" height="80" />
-  <img src="https://img.icons8.com/color/80/api.png" alt="APIs" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
+</div>
+
+### 🌐 Frameworks & Libraries
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="60" />
+  <img src="https://img.icons8.com/color/60/api.png" alt="APIs" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" />
+</div>
+
+### 🐳 Tools & Platforms
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+</div>
+
+### 🖥️ OS & Editors
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="60" />
 </div>
 
 ---
+
 ## 📊 Fun Stats
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
-
 
 ## 📫 Let's Connect
 
