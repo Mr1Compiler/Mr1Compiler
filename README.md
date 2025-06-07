@@ -9,7 +9,7 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 ## 🌍 About Me
 
 - 📍 Based in **Iraq**
-- ✉️ Reach me at **[mr1compiler@gmail.com](mailto:mr1compiler@gmail.com)**
+- ✉️ Reach me at **[mr1compiler@gmail.com](mailto:eng.ayman.asal@gmail.com)**
 - 🧠 Currently learning **ASP.NET APIs, MVC**
 - 🤝 Open to collaborating on **ASP.NET APIs, MVC, databases, and Entity Framework projects**
 - ⚡ Microsoft and .NET enthusiast, always exploring new tech!
@@ -45,7 +45,7 @@ As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET We
 - 💼 **LinkedIn**: [Ayman Hazim](https://www.linkedin.com/in/ayman-hazim-a8219b327/)  
 - 📸 **Instagram**: [Mr1Compiler](https://instagram.com/mr1compiler)  
 - 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler) 
-- 📧 **Email**: [mr1compiler@gmail.com](mailto:mr1compiler@gmail.com)  
+- 📧 **Email**: [eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)  
 
 ---
 
