@@ -26,41 +26,53 @@ In addition to backend development, I have a growing interest in low-level progr
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=csharp,cpp,c,js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+      <img src="https://skillicons.dev/icons?i=c" width="50"/>
+      <img src="https://skillicons.dev/icons?i=js" width="50"/>
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks & APIs</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=dotnet,postman" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="50"/>
+      <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+      <img src="https://img.icons8.com/color/100/api.png" width="50" title="RESTful APIs"/>
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mssql" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Tools & Platforms</strong></td>
+    <td><strong>Tools & Version Control</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,windows,html,css,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+      <img src="https://skillicons.dev/icons?i=git" width="50"/>
+      <img src="https://skillicons.dev/icons?i=github" width="50"/>
     </td>
   </tr>
   <tr>
-    <td><strong>OS & Editors</strong></td>
+    <td><strong>IDEs & Editors</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,vim,neovim,vscode,rider" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="50"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Version Control</strong></td>
+    <td><strong>Operating Systems</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github" />
+      <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+      <img src="https://skillicons.dev/icons?i=windows" width="50"/>
     </td>
   </tr>
 </table>
-
 
 </div>
 
