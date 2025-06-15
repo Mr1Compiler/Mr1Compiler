@@ -37,6 +37,7 @@ In addition to backend development, I have a growing interest in low-level progr
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"/>
       <img src="https://img.icons8.com/color/48/api.png" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
     </td>
   </tr>
   <tr>
@@ -53,6 +54,7 @@ In addition to backend development, I have a growing interest in low-level progr
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60"/>
     </td>
   </tr>
   <tr>
@@ -67,6 +69,7 @@ In addition to backend development, I have a growing interest in low-level progr
     </td>
   </tr>
 </table>
+
 
 </div>
 
