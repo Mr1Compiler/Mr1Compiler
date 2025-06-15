@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ayman Hazim!
 
-### Backend Developer | C#, ASP.NET Core, APIs, SQL, Entity Framework
+### Backend Developer | C#, ASP.NET Core, Web APIs, SQL, Entity Framework
 
-As a **4th-year Computer Engineering student**, I specialize in **C#, ASP.NET Web API, SQL**, and **Entity Framework**. I am passionate about backend development and have hands-on experience with **ASP.NET MVC**. As I approach the completion of my studies, I am eager to apply my skills to real-world projects, contribute to impactful development, and continue learning in the field of backend technologies and API development.
+Computer Engineer with a strong focus on backend development using C#, ASP.NET Core, Entity Framework, and SQL. Experienced in building RESTful APIs, designing relational databases, and implementing clean architecture. Proficient in developing full-featured web applications with ASP.NET MVC, with a passion for building scalable, secure, and maintainable systems.
+
+In addition to backend development, I have a growing interest in low-level programming, including C/C++, systems programming, and network-level development, aiming to deepen my understanding of how software interacts with hardware and optimize performance-critical systems.
 
 ---
 
