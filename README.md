@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Ayman Hazim!
 
-### Backend Developer | C#, ASP.NET Core, Web APIs, SQL, Entity Framework
+### Backend Developer | C#, ASP.NET Core, Web APIs, SQL, Entity Framework, TypeScript, Django
 
-Computer Engineer with a strong focus on backend development using C#, ASP.NET Core, Entity Framework, and SQL. Experienced in building RESTful APIs, designing relational databases, and implementing clean architecture. Proficient in developing full-featured web applications with ASP.NET MVC, with a passion for building scalable, secure, and maintainable systems.
-
-In addition to backend development, I have a growing interest in low-level programming, including C/C++, systems programming, and network-level development, aiming to deepen my understanding of how software interacts with hardware and optimize performance-critical systems.
+Computer Engineer with a strong focus on backend development using C#, ASP.NET Core, Entity Framework, SQL, Django, and TypeScript. Experienced in building RESTful APIs, designing relational databases, and implementing clean architecture. Proficient in developing full-featured web applications with ASP.NET MVC and Django REST Framework. Passionate about building scalable, secure, and maintainable systems, and always exploring best practices in system design, architecture, and backend performance.
 
 ---
 
@@ -30,6 +28,8 @@ In addition to backend development, I have a growing interest in low-level progr
       <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
       <img src="https://skillicons.dev/icons?i=c" width="50"/>
       <img src="https://skillicons.dev/icons?i=js" width="50"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+      <img src="https://skillicons.dev/icons?i=python" width="50"/>
     </td>
   </tr>
   <tr>
@@ -38,6 +38,7 @@ In addition to backend development, I have a growing interest in low-level progr
       <img src="https://skillicons.dev/icons?i=dotnet" width="50"/>
       <img src="https://skillicons.dev/icons?i=postman" width="50"/>
       <img src="https://img.icons8.com/color/100/api.png" width="50" title="RESTful APIs"/>
+      <img src="https://skillicons.dev/icons?i=django" width="50"/>
     </td>
   </tr>
   <tr>
@@ -63,6 +64,7 @@ In addition to backend development, I have a growing interest in low-level progr
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50"/>
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" title="Cursor AI"/>
     </td>
   </tr>
   <tr>
@@ -86,11 +88,11 @@ In addition to backend development, I have a growing interest in low-level progr
 
 ## 📫 Let's Connect
 
-- 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler) 
+- 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler)  
 - 💼 **LinkedIn**: [Ayman Hazim](https://www.linkedin.com/in/ayman-hazim-a8219b327/)  
 - 📸 **Instagram**: [Mr1Compiler](https://instagram.com/mr1compiler)  
-- 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler) 
-- 📧 **Email**: [eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)  
+- 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler)  
+- 📧 **Email**: [eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)
 
 ---
 
