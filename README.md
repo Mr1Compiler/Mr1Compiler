@@ -10,9 +10,9 @@ Computer Engineer with a strong focus on backend development using C#, ASP.NET C
 
 - 📍 Based in **Iraq**
 - ✉️ Reach me at **[eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)**
-- 🧠 Currently learning **ASP.NET APIs, MVC**
-- 🤝 Open to collaborating on **ASP.NET APIs, MVC, databases, and Entity Framework projects**
-- ⚡ Microsoft and .NET enthusiast, always exploring new tech!
+- 🧠 Currently learning **system design principles and advanced backend engineering**
+- 🤝 Open to collaborating on **backend-focused projects involving APIs, databases, performance, and architecture**
+- 🚀 Always pushing to build better systems, learn deeply, and contribute meaningfully to the developer community
 
 ---
 
@@ -64,7 +64,7 @@ Computer Engineer with a strong focus on backend development using C#, ASP.NET C
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50"/>
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" title="Cursor AI"/>
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Computer/3D/computer_3d.png" width="50" title="Cursor / AI Editor"/>
     </td>
   </tr>
   <tr>
