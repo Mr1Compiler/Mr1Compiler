@@ -64,7 +64,7 @@ Computer Engineer with a strong focus on backend development using C#, ASP.NET C
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50"/>
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Computer/3D/computer_3d.png" width="50" title="Cursor / AI Editor"/>
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" title="Cursor AI"/>
     </td>
   </tr>
   <tr>
