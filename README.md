@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ayman Hazim!
 
-### Backend Developer | C#, ASP.NET Core, Web APIs, SQL, Entity Framework, TypeScript, Django
+### Backend Developer | Node.js, Python, Django, Express, WebSocket, SQL, TypeScript, C#
 
-Computer Engineer with a strong focus on backend development using C#, ASP.NET Core, Entity Framework, SQL, Django, and TypeScript. Experienced in building RESTful APIs, designing relational databases, and implementing clean architecture. Proficient in developing full-featured web applications with ASP.NET MVC and Django REST Framework. Passionate about building scalable, secure, and maintainable systems, and always exploring best practices in system design, architecture, and backend performance.
+Computer Engineer specializing in backend development with a current focus on Node.js (Express) and Python (Django), building scalable, maintainable systems with RESTful APIs, relational databases, and real-time features using WebSocket and Socket.IO. Proficient in Django REST Framework and Express.js, with a strong foundation in C#, ASP.NET Core, and Entity Framework. Passionate about clean architecture, system design, backend performance, and modern best practices in building robust and secure backend services.
 
 ---
 
