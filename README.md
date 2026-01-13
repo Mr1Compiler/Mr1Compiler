@@ -1,93 +1,62 @@
-# 👋 Hi, I'm Ayman Hazim!
+# 👋 Hi, I'm Ayman Hazim
 
-### Computer Engineer | Backend Engineer | Go (Golang) | Systems & Network Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Engineer-0078D4?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-FF4081?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-I am a Computer Engineer focused on building high-performance, concurrent backend systems. My primary focus is **Go (Golang)**, using it to architect scalable microservices, distributed systems, and robust RESTful APIs.
+### 🚀 Focusing on High-Performance Backend & Network Systems
 
-Driven by a "mechanical sympathy" approach, I am currently diving deep into **low-level systems (C/C++, Rust)** and **network-level programming**. I strive to build software that isn't just maintainable, but highly optimized for the hardware it runs on.
+I am a Computer Engineer specializing in building concurrent backend architectures using **Go**. I bridge the gap between application-level logic and low-level system performance.
 
----
-
-## 🌍 About Me
-
-- 📍 Based in **Iraq**
-- ✉️ Reach me at **[eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)**
-- 🧠 Currently deep-diving into **Systems Programming, Network Protocols, and Go Concurrency**
-- 🤝 Open to collaborating on **Performance-critical backends, Networking tools, and Distributed systems**
-- 🚀 Always pushing to build better systems, learn deeply, and contribute to the open-source community
+- 🦀 **Currently Deep-Diving:** Systems programming (C/C++, Rust) and Network protocols.
+- ⚙️ **Core Focus:** Building high-throughput APIs, distributed systems, and optimized networking tools.
+- ⚡ **Philosophy:** Writing "hardware-aware" code that is both clean and performant.
 
 ---
 
-## 🛠️ Technologies I Use
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cpp,c,rust,ts,js&theme=dark" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=go" width="50" title="Golang"/>
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" title="C++"/>
-      <img src="https://skillicons.dev/icons?i=c" width="50" title="C"/>
-      <img src="https://skillicons.dev/icons?i=rust" width="50" title="Rust"/>
-      <img src="https://skillicons.dev/icons?i=ts" width="50" title="TypeScript"/>
-      <img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
-      <img src="https://img.icons8.com/color/100/api.png" width="50" title="RESTful APIs"/>
-      <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" width="50" title="gRPC"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/>
-      <img src="https://skillicons.dev/icons?i=redis" width="50" title="Redis"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure & Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="50" title="Docker"/>
-      <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
-      <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/>
-      <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>IDEs & Editors</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code"/>
-      <img src="https://skillicons.dev/icons?i=neovim" width="50" title="Neovim"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" title="Vim"/>
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" title="Cursor AI"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,mongodb,docker,nginx,linux&theme=dark" />
+  </a>
+</p>
 
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,postman&theme=dark" />
+  </a>
+</p>
 
 ---
 
-## 📊 Fun Stats
+### 📊 Engineering Stats
 
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-- 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler)  
-- 💼 **LinkedIn**: [Ayman Hazim](https://www.linkedin.com/in/ayman-hazim-a8219b327/)  
-- 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler)  
-- 📧 **Email**: [eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</p>
 
 ---
 
-_✨ "Simplicity is the ultimate sophistication." – Leonardo da Vinci ✨_
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ayman-hazim-a8219b327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Mr1Compiler"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://t.me/mr1compiler"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:eng.ayman.asal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20precondition%20for%20reliability." />
+</p>
