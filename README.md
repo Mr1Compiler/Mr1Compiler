@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Focused on High-Performance Systems | Networking | Go (Golang)</strong>
+  <strong>🚀 Focused on High-Performance Systems | Network Programming | Go (Golang)</strong>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-I am a **Computer Engineer** specializing in building high-performance, concurrent backend systems. My engineering focus is on **Go**, with a deep commitment to understanding the "metal" through systems and network programming.
+I am a **Computer Engineer** specializing in high-performance, concurrent backend systems. My core engineering focus is on **Go**, with a deep commitment to optimizing software performance and mastering network-level communication.
 
-- 🛠️ **Current Stack:** Architecting scalable backends with **Go** and **Node.js**.
-- 🦀 **Low-Level Journey:** Deepening my knowledge in **C/C++** and **Rust** for system internals.
-- 🌐 **Networking:** Exploring **Socket Programming**, **Custom Protocols**, and **Nginx** optimization.
-- 💾 **Databases:** Designing efficient architectures for **PostgreSQL** and **Redis**.
+- ⚙️ **Backend Performance:** Optimizing services for low latency and high throughput.
+- 🌐 **Network Programming:** Deep-diving into **Socket Programming**, **TCP/UDP**, and **Custom Protocols**.
+- 🛠️ **Core Stack:** Scalable backend development with **Go**, **Node.js**, and **.NET**.
+- 🦀 **Systems Engineering:** Exploring **C/C++** and **Rust** to master memory management.
 
 ---
 
@@ -29,11 +29,11 @@ I am a **Computer Engineer** specializing in building high-performance, concurre
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=go,cpp,c,rust,ts,js" /> |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=nodejs,nginx,express,postman" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,cs,python,cpp,c,rust,ts,js" /> |
+| **Backend & Web** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nginx,express,django" /> |
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /> |
-| **Tools & Editors** | <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> |
+| **Tools & Editors** | <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github,postman" /> |
 
 </div>
 
@@ -42,18 +42,18 @@ I am a **Computer Engineer** specializing in building high-performance, concurre
 ### 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 ---
 
 ### ⚙️ Current Setup & Status
 
-- 💻 **OS:** Arch Linux / Ubuntu 
-- ✍️ **Editor:** Neovim (Lua-based config)
-- 📡 **Currently Learning:** Advanced gRPC patterns and eBPF for networking
-- 🏗️ **Building:** High-concurrency network utilities in Go
+- 💻 **OS:** Ubuntu (Primary)
+- ✍️ **Editors:** Neovim & VS Code
+- 📡 **Learning:** Network Programming (OSI Model, Sockets), gRPC, and Performance Profiling
+- 🏗️ **Building:** Optimized network utilities and high-concurrency services in Go
 
 ---
 
