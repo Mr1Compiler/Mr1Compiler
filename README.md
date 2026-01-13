@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayman Hazim!
+# 👋 Hi, I'm Ayman H. Asal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
@@ -14,12 +14,12 @@
 
 ### ⚡ About Me
 
-I am a **Computer Engineer** passionate about building efficient, concurrent backend systems. My daily driver is **Go**, but my engineering heart lies in understanding the "how" behind the code.
+I am a **Computer Engineer** specializing in building high-performance, concurrent backend systems. My engineering focus is on **Go**, with a deep commitment to understanding the "metal" through systems and network programming.
 
-- 🛠️ **Primary Stack:** Architecting scalable backends with **Go** and **Node.js**.
-- 🦀 **Low-Level Interest:** Currently exploring **C/C++** and **Rust** to master memory management and system internals.
-- 🌐 **Networking:** Deep-diving into **Socket Programming**, **Custom Protocols**, and **Nginx** optimization.
-- 💾 **Databases:** Designing high-performance schemas for **PostgreSQL** and **Redis**.
+- 🛠️ **Current Stack:** Architecting scalable backends with **Go** and **Node.js**.
+- 🦀 **Low-Level Journey:** Deepening my knowledge in **C/C++** and **Rust** for system internals.
+- 🌐 **Networking:** Exploring **Socket Programming**, **Custom Protocols**, and **Nginx** optimization.
+- 💾 **Databases:** Designing efficient architectures for **PostgreSQL** and **Redis**.
 
 ---
 
@@ -33,7 +33,7 @@ I am a **Computer Engineer** passionate about building efficient, concurrent bac
 | **Backend & Web** | <img src="https://skillicons.dev/icons?i=nodejs,nginx,express,postman" /> |
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" /> |
-| **Setup & IDEs** | <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" /> |
+| **Tools & Editors** | <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" /> |
 
 </div>
 
@@ -42,13 +42,13 @@ I am a **Computer Engineer** passionate about building efficient, concurrent bac
 ### 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr1compiler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr1compiler&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 📫 Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ayman-hazim-a8219b327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
