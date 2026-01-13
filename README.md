@@ -48,6 +48,15 @@ I am a **Computer Engineer** specializing in building high-performance, concurre
 
 ---
 
+### ⚙️ Current Setup & Status
+
+- 💻 **OS:** Arch Linux / Ubuntu 
+- ✍️ **Editor:** Neovim (Lua-based config)
+- 📡 **Currently Learning:** Advanced gRPC patterns and eBPF for networking
+- 🏗️ **Building:** High-concurrency network utilities in Go
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -55,8 +64,4 @@ I am a **Computer Engineer** specializing in building high-performance, concurre
 <a href="https://www.youtube.com/@Mr1Compiler"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://t.me/mr1compiler"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:eng.ayman.asal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20precondition%20for%20reliability." />
 </p>
