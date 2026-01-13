@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ayman Hazim!
 
-### Backend Developer | C# · .NET (ASP.NET Core) · Python (Django/DRF) · Node.js · TypeScript
+### Computer Engineer | Backend Engineer | Go (Golang) | Systems & Network Programming
 
-Computer Engineer specializing in backend development, with a primary focus on **C# and .NET (ASP.NET Core, Entity Framework)**. Experienced in building **scalable, secure, and maintainable systems**, designing **RESTful APIs**, integrating **relational databases**, and implementing **real-time features** with WebSocket and Socket.IO.
+I am a Computer Engineer focused on building high-performance, concurrent backend systems. My primary focus is **Go (Golang)**, using it to architect scalable microservices, distributed systems, and robust RESTful APIs.
 
-While .NET is my core strength, I also work with **Node.js (Express)** and **Python (Django/DRF)**, giving me a versatile backend skillset. Passionate about **clean architecture, system design, and backend performance**, with a strong commitment to delivering **robust and high-quality backend services**.
+Driven by a "mechanical sympathy" approach, I am currently diving deep into **low-level systems (C/C++, Rust)** and **network-level programming**. I strive to build software that isn't just maintainable, but highly optimized for the hardware it runs on.
 
 ---
 
@@ -12,9 +12,9 @@ While .NET is my core strength, I also work with **Node.js (Express)** and **Pyt
 
 - 📍 Based in **Iraq**
 - ✉️ Reach me at **[eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)**
-- 🧠 Currently learning **system design principles and advanced backend engineering**
-- 🤝 Open to collaborating on **backend-focused projects involving APIs, databases, performance, and architecture**
-- 🚀 Always pushing to build better systems, learn deeply, and contribute meaningfully to the developer community
+- 🧠 Currently deep-diving into **Systems Programming, Network Protocols, and Go Concurrency**
+- 🤝 Open to collaborating on **Performance-critical backends, Networking tools, and Distributed systems**
+- 🚀 Always pushing to build better systems, learn deeply, and contribute to the open-source community
 
 ---
 
@@ -26,54 +26,47 @@ While .NET is my core strength, I also work with **Node.js (Express)** and **Pyt
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-      <img src="https://skillicons.dev/icons?i=c" width="50"/>
-      <img src="https://skillicons.dev/icons?i=js" width="50"/>
-      <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-      <img src="https://skillicons.dev/icons?i=python" width="50"/>
+      <img src="https://skillicons.dev/icons?i=go" width="50" title="Golang"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=c" width="50" title="C"/>
+      <img src="https://skillicons.dev/icons?i=rust" width="50" title="Rust"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="50" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Frameworks & APIs</strong></td>
+    <td><strong>Backend & Systems</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=dotnet" width="50"/>
-      <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
       <img src="https://img.icons8.com/color/100/api.png" width="50" title="RESTful APIs"/>
-      <img src="https://skillicons.dev/icons?i=django" width="50"/>
+      <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" width="50" title="gRPC"/>
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-      <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" title="MongoDB"/>
+      <img src="https://skillicons.dev/icons?i=redis" width="50" title="Redis"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Tools & Version Control</strong></td>
+    <td><strong>Infrastructure & Tools</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-      <img src="https://skillicons.dev/icons?i=git" width="50"/>
-      <img src="https://skillicons.dev/icons?i=github" width="50"/>
+      <img src="https://skillicons.dev/icons?i=docker" width="50" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=linux" width="50" title="Linux"/>
+      <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/>
     </td>
   </tr>
   <tr>
     <td><strong>IDEs & Editors</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="50"/>
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="50"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=neovim" width="50" title="Neovim"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" title="Vim"/>
       <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" title="Cursor AI"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Operating Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux" width="50"/>
-      <img src="https://skillicons.dev/icons?i=windows" width="50"/>
     </td>
   </tr>
 </table>
@@ -92,10 +85,9 @@ While .NET is my core strength, I also work with **Node.js (Express)** and **Pyt
 
 - 🎥 **YouTube**: [Mr1Compiler](https://www.youtube.com/@Mr1Compiler)  
 - 💼 **LinkedIn**: [Ayman Hazim](https://www.linkedin.com/in/ayman-hazim-a8219b327/)  
-- 📸 **Instagram**: [Mr1Compiler](https://instagram.com/mr1compiler)  
 - 💬 **Telegram**: [Mr1Compiler](https://t.me/mr1compiler)  
 - 📧 **Email**: [eng.ayman.asal@gmail.com](mailto:eng.ayman.asal@gmail.com)
 
 ---
 
-_✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House ✨_
+_✨ "Simplicity is the ultimate sophistication." – Leonardo da Vinci ✨_
